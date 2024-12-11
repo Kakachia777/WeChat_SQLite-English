@@ -1,6 +1,4 @@
 ```markdown:README.md
-# WeChat SQLite Decryption Tool
-
 A Python-based tool for decrypting WeChat SQLite databases and extracting message history from memory. This tool uses memory scanning techniques to find encryption keys without needing to update addresses for new WeChat versions.
 
 ![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)
@@ -78,7 +76,7 @@ This tool works by:
 - Extracting base addresses and offsets
 - Decrypting SQLite database content
 
-## Security Notice
+## Examples
 
 This tool is for educational and research purposes only. Use it only on your own WeChat account and data.
 
